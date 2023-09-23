@@ -6,8 +6,8 @@
 <a href="https://drive.google.com/file/d/19gKWKiF6bSgZI0X1FsSb8hXZCgM0KGvg/view?usp=share_link">![Demo video of Game](https://img.shields.io/badge/Demo_Video_Of_Game-Click_ME-brightgreen.svg?style=plastic&logo=YouTube&logoColor=red)</a>
 
 
-[![Backend Deploy to Render](https://img.shields.io/badge/Backend_Deployed_Render_Link-0A66C2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://khushbooapp.onrender.com/)/
-)
+[![Backend Deploy to Render](https://img.shields.io/badge/Backend_Deployed_Render_Link-0A66C2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://khushbooapp.onrender.com/)
+
 
 [![Deployed App Vercel Link](https://img.shields.io/badge/Deployed_App_Vercel_Link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://courseassign.vercel.app/)
 
@@ -34,8 +34,9 @@ Once executed, the frontend application will be accessible at http://localhost:3
 ⭕ User Registration and Login:
 You can sign up as a user by providing your registration details. Additionally, you can log in as an administrator, but please note that the administrator credentials are hardcoded. The credentials are as follows:
 
-Email: [Administrator's Email]
-Password: [Administrator's Password]
+   - Name:abc123
+   - Email: abc123@gmail.com
+   - Password: 123456
 
 ⭕ User Functionality:
 As a user, you have access to various features, including viewing and editing your profile. You can also access all available courses after subscribing and making payments through the integrated Razorpay payment gateway.
