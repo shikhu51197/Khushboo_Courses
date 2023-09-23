@@ -95,7 +95,7 @@ Please note that for security reasons, it's essential to use strong and unique p
 ✨Run the command `npm start` in the frontend folder run on localhost:3000.
 
 
-![spgmr](https://user-images.githubusercontent.com/107506646/222902675-7e06b37e-bbca-4803-9792-cc6752afee3e.gif)
+![spgmr](https://camo.githubusercontent.com/ce44b3f848998271c133c7dcba1540cac117520be69e952e5af2831b403f063b/68747470733a2f2f632e74656e6f722e636f6d2f53353962506b543070716341414141432f70726f6772616d6d696e672e676966)
 
 
 ---
