@@ -174,8 +174,7 @@ CoursePage--> WatchLecturePage
 ```
 
 ---
-## Screenshots 📷
----                                     
+          
                                                                                                                           
                                                                                                                           
                                                                                                                      
