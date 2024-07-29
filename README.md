@@ -6,7 +6,7 @@
 <a href="https://drive.google.com/file/d/1VjDGj18TrOrsZS4p4ND0-cs_BZyTZqxs/view?usp=sharing">![Demo video of Game](https://img.shields.io/badge/Demo_Video_Of_Game-Click_ME-brightgreen.svg?style=plastic&logo=YouTube&logoColor=red)</a>
 
 
-[![Backend Deploy to Render](https://img.shields.io/badge/Backend_Deployed_Render_Link-0A66C2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://courseassign-arct.vercel.app/)
+[![Backend Deploy to Vercel](https://img.shields.io/badge/Backend_Deployed_Vercel_Link-0A66C2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://courseassign-arct.vercel.app/)
 
 
 [![Deployed App Vercel Link](https://img.shields.io/badge/Deployed_App_Vercel_Link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://courseassign.vercel.app/)
